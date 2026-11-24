@@ -1,4 +1,4 @@
-DARK SOULS III OFFLINE MULTIPLAYER - v2.0
+DARK SOULS III OFFLINE MULTIPLAYER - v2.1
 
 Dark Souls III's multiplayer, played completely offline. Computer-controlled phantoms stand in for
 other players and follow the game's own multiplayer rules, through the whole game and both DLCs.
@@ -18,7 +18,7 @@ answer the call of your covenant, defend the church as a Spear, and fight in the
 WHAT YOU NEED
   - Dark Souls III on Steam, version 1.15.2, with both DLCs (Ashes of Ariandel, The Ringed City)
   - Mod Engine 2 (free, from its GitHub releases page: ModEngine-2.1.0.0-win64)
-  - The game set to English. The mod's own texts (names, prompts) exist in English only
+  - Any of the game's thirteen languages (see LANGUAGES)
 
 INSTALL
   1. Unpack Mod Engine 2 anywhere
@@ -31,6 +31,13 @@ INSTALL
      and you get the plain game: no signs, no messages)
   You have it right when summon signs and orange messages appear in the High Wall of Lothric
   while you are embered and offline.
+
+LANGUAGES
+  The mod speaks every language the game does: English, French, German, Italian, Spanish (Spain),
+  Spanish (Latin America), Portuguese (Brazil), Polish, Russian, Japanese, Korean, and Simplified and
+  Traditional Chinese. It follows the language set in the game. Almost every line is the game's own
+  text in that language, and the orange messages are built from the game's own phrases in that
+  language. The names of the phantoms stay as they are, like the names of real players.
 
 UPDATING FROM v1.x
   Delete the old folders from Mod Engine 2's "mod" folder first, then copy the six new ones.
@@ -350,6 +357,9 @@ WHERE v2.0's OTHER WORLDS DIFFER FROM REAL ONLINE
   - No ratings on messages, no passwords, voice chat or trading: those need real players
 
 CHANGELOG
+  v2.1
+  - All thirteen of the game's languages: summon prompts, arrival and departure lines, session lines, the Undead Match menu, orange messages and the Offline Separation Crystal show in the language your game is set to
+  - Orange messages use only phrases Dark Souls III's own message menu can make; some used words from the earlier games
   v2.0
   - You as the phantom: White Sign Soapstone (co-op to the boss in every area), Red Sign Soapstone, Red Eye Orb and Cracked Red Eye Orb, in all sixteen areas
   - Covenant duty: Blue Sentinels, Blade of the Darkmoon, Watchdogs of Farron, Aldrich Faithful, Spears of the Church, Mound-makers, Warrior of Sunlight; every covenant reward can be earned

@@ -31,11 +31,15 @@ Computer-controlled phantoms take the place of other players and follow the game
 - The game's own rules: level ranges, ally and invader limits, invasion cooldowns, bonfire lock, exit fog, boss fog rules
 - Two versions: normal pacing, and **Chaos**, the same world far busier
 
+## Every language the game speaks
+
+English, French, German, Italian, Spanish (Spain), Spanish (Latin America), Portuguese (Brazil), Polish, Russian, Japanese, Korean, Simplified Chinese and Traditional Chinese. The mod follows the language set in the game; almost every line is the game's own text in that language.
+
 ## Requirements
 
 - Dark Souls III on Steam, version 1.15.2, with both DLCs
 - [Mod Engine 2](https://github.com/soulsmods/ModEngine2/releases) (ModEngine-2.1.0.0-win64)
-- The game set to English
+- Any of the game's thirteen languages
 
 ## Install
 
