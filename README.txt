@@ -1,4 +1,4 @@
-DARK SOULS III OFFLINE MULTIPLAYER - v2.1
+DARK SOULS III OFFLINE MULTIPLAYER - v2.2
 
 Dark Souls III's multiplayer, played completely offline. Computer-controlled phantoms stand in for
 other players and follow the game's own multiplayer rules, through the whole game and both DLCs.
@@ -357,6 +357,9 @@ WHERE v2.0's OTHER WORLDS DIFFER FROM REAL ONLINE
   - No ratings on messages, no passwords, voice chat or trading: those need real players
 
 CHANGELOG
+  v2.2
+  - Summon signs for stronger players: a character above an area's usual level found invaders there but no white or gold signs at all. The area's strongest white and gold phantoms (at least three, a third of them in a big area) now answer any player above them, as invaders already did
+  - New troubleshooting answers in this read-me: no white signs, and Way of Blue bringing no blue spirit
   v2.1
   - All thirteen of the game's languages: summon prompts, arrival and departure lines, session lines, the Undead Match menu, orange messages and the Offline Separation Crystal show in the language your game is set to
   - Orange messages use only phrases Dark Souls III's own message menu can make; some used words from the earlier games
@@ -410,6 +413,12 @@ CHANGELOG
 IF SOMETHING LOOKS WRONG
   - Nothing happens at all: you must be embered, and the area's boss must be alive. Invasions take
     minutes to start, as online; the Dried Finger brings them sooner
+  - No white or gold signs: they need the Ember (use one, or beat a boss), the area's boss alive,
+    and you within sight of a sign spot (bonfires and boss doors most often). About half the spots
+    have a sign at a time, so walk on or wait a little. Red and purple signs need no Ember
+  - Way of Blue brings no blue spirit: blues answer an uninvited dark spirit only, not a Watchdog,
+    an Aldrich Faithful, a red-sign duel or one of the game's own named invaders. Even then not
+    every invasion gets an answer: between one in five and one in three get none, by area
   - Nobody summons you after you put your sign down: wait up to a minute; if your own world is
     invaded the sign goes and you must write it again
   - "Undead Match" is not in the bonfire's list: burn Champion's Bones at the Firelink Shrine
