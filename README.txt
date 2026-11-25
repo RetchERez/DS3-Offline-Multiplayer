@@ -125,8 +125,8 @@ SMARTER PHANTOMS
 GHOSTS AND BLOODSTAINS
   - Now and then the white ghost of another player appears near you for a few seconds; near a
     bonfire he sits by it
-  - Standing on a bloodstain shows "Touch Bloodstain": a red ghost plays out its death. Once per
-    visit to an area; it returns after you rest
+  - Standing on a bloodstain shows "Touch Bloodstain": a red ghost plays out its death. One replay,
+    then rest at a bonfire for the next
 
 RED AND PURPLE SIGNS
   Red duel signs and purple signs show even when you are not embered, and red duel signs stay
@@ -353,12 +353,14 @@ WHERE v2.0's OTHER WORLDS DIFFER FROM REAL ONLINE
   - Hosts are of their area's level; there is no matching by weapon upgrade
   - Undead Match: always three minutes, fighters keep their phantom colours, no ranks or badges,
     and in a 6 Player Brawl two pairs share a side
-  - A bloodstain shows the death only, not the moments before it
+  - A bloodstain shows the death only, not the moments before it, and one replay at a time: rest
+    at a bonfire for the next
   - No ratings on messages, no passwords, voice chat or trading: those need real players
 
 CHANGELOG
   v2.2
   - Summon signs for stronger players: a character above an area's usual level found invaders there but no white or gold signs at all. The area's strongest white and gold phantoms (at least three, a third of them in a big area) now answer any player above them, as invaders already did
+  - Bloodstains: after a replay, resting at a bonfire makes them touchable again; before, only leaving the area or reloading did. One replay at a time, then rest
   - New troubleshooting answers in this read-me: no white signs, and Way of Blue bringing no blue spirit
   v2.1
   - All thirteen of the game's languages: summon prompts, arrival and departure lines, session lines, the Undead Match menu, orange messages and the Offline Separation Crystal show in the language your game is set to
