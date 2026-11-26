@@ -1,4 +1,4 @@
-DARK SOULS III OFFLINE MULTIPLAYER - v2.2
+DARK SOULS III OFFLINE MULTIPLAYER - v2.3
 
 Dark Souls III's multiplayer, played completely offline. Computer-controlled phantoms stand in for
 other players and follow the game's own multiplayer rules, through the whole game and both DLCs.
@@ -358,6 +358,8 @@ WHERE v2.0's OTHER WORLDS DIFFER FROM REAL ONLINE
   - No ratings on messages, no passwords, voice chat or trading: those need real players
 
 CHANGELOG
+  v2.3
+  - Invading: the host could not be locked on to or hurt; the host you invade, and the phantoms and blue spirit at his side, can be fought again
   v2.2
   - Summon signs for stronger players: a character above an area's usual level found invaders there but no white or gold signs at all. The area's strongest white and gold phantoms (at least three, a third of them in a big area) now answer any player above them, as invaders already did
   - Bloodstains: after a replay, resting at a bonfire makes them touchable again; before, only leaving the area or reloading did. One replay at a time, then rest
