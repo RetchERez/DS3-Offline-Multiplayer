@@ -53,7 +53,7 @@ Install the normal archive **or** the Chaos archive, not both. The full read-me,
 
 ## With Seamless Co-op
 
-Players report that the two run together. Put Seamless Co-op's `SeamlessCoop` folder into the Mod Engine 2 folder, copy `config_darksouls3.toml` from `Mod Engine 2 settings\With Seamless Co-op` over the one in the Mod Engine 2 folder, and start with `launchmod_darksouls3.bat`. While in a Seamless Co-op session, use only the "your own world" side of the mod.
+Players report that the two run together. Put Seamless Co-op's `SeamlessCoop` folder into the Mod Engine 2 folder, copy `config_darksouls3.toml` from `Mod Engine 2 settings\With Seamless Co-op` over the one in the Mod Engine 2 folder, and start with `launchmod_darksouls3.bat`. With Seamless Co-op loaded only the mod's "your own world" side works (signs to summon from, invaders, messages, bloodstains, ghosts): Seamless Co-op switches off the game's offline worlds, which are where the mod's own soapstone signs, orbs, covenant duty and Undead Match take you. Use those with the game started without Seamless Co-op, and take off the covenants that call you while it is loaded.
 
 ## Credits
 

@@ -51,10 +51,13 @@ WITH SEAMLESS CO-OP
      the Mod Engine 2 folder. It is the same settings file with Seamless Co-op added to the list of
      files Mod Engine 2 loads
   3. Start the game with "launchmod_darksouls3.bat", Steam online
-  While you are in a Seamless Co-op session with other players, use only the mod's "your own world"
-  side (signs to summon from, invaders, messages, bloodstains, ghosts). Do not use your own
-  soapstones, the Red Eye Orb, covenant duty or the Undead Match there: those take you into the
-  mod's own offline worlds, which Seamless Co-op knows nothing about.
+  With Seamless Co-op loaded, only the mod's "your own world" side works: signs to summon from,
+  invaders, messages, bloodstains and ghosts. Seamless Co-op switches off the game's offline worlds
+  (it says so itself: "Pseudo multiplayer events are currently not available online"), and those
+  are the worlds the mod sends you to. So your own soapstone signs, the Red Eye Orb, covenant duty
+  and the Undead Match need the game started WITHOUT Seamless Co-op. Take off Blue Sentinels, Blade
+  of the Darkmoon, Watchdogs of Farron, Aldrich Faithful and Spears of the Church while Seamless
+  Co-op is loaded, or the mod keeps trying to send you to a world that never opens.
   Keeping you off the game's official servers in this setup is Seamless Co-op's job, not this mod's.
 
 UNINSTALL
@@ -360,7 +363,8 @@ WHERE v2.0's OTHER WORLDS DIFFER FROM REAL ONLINE
 CHANGELOG
   v2.4
   - Dark spirits no longer drop the weapons and armour of the game's own invaders; you get only the mod's own rewards
-  - While you are in another world, your own world's summon signs go away and its bonfires are locked; they come back when you are home
+  - While you are in another world, your own world's items, summon signs and bonfires are gone; they come back when you are home
+  - With Seamless Co-op loaded, the mod's other worlds (your own signs, the orbs, covenant duty) cannot work: Seamless Co-op turns off the game's offline worlds; the read-me now says so
   - If the host dies and you are not sent home within a few seconds, you are sent home
   v2.3
   - Invading: the host could not be locked on to or hurt; the host you invade, and the phantoms and blue spirit at his side, can be fought again
