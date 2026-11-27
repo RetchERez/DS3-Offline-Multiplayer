@@ -1,4 +1,4 @@
-DARK SOULS III OFFLINE MULTIPLAYER - v2.3
+DARK SOULS III OFFLINE MULTIPLAYER - v2.4
 
 Dark Souls III's multiplayer, played completely offline. Computer-controlled phantoms stand in for
 other players and follow the game's own multiplayer rules, through the whole game and both DLCs.
@@ -358,6 +358,10 @@ WHERE v2.0's OTHER WORLDS DIFFER FROM REAL ONLINE
   - No ratings on messages, no passwords, voice chat or trading: those need real players
 
 CHANGELOG
+  v2.4
+  - Dark spirits no longer drop the weapons and armour of the game's own invaders; you get only the mod's own rewards
+  - While you are in another world, your own world's summon signs go away and its bonfires are locked; they come back when you are home
+  - If the host dies and you are not sent home within a few seconds, you are sent home
   v2.3
   - Invading: the host could not be locked on to or hurt; the host you invade, and the phantoms and blue spirit at his side, can be fought again
   v2.2
